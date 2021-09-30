@@ -1,0 +1,127 @@
+<stores>
+<Store>
+  <storeCode>ox3ty6</storeCode>
+  <manager>
+    <personCode>6a2wff</personCode>
+    <lastName>Calderon</lastName>
+    <firstName>Arielle</firstName>
+    <address>
+      <street>486 Union Circle</street>
+      <city>Zanesville</city>
+      <state>OH</state>
+      <zipCode>US</zipCode>
+      <country>43701</country>
+    </address>
+    <emails>
+      <email>acalderon@marks.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>989 Aurora St.</street>
+    <city>Prior Lake</city>
+    <state>MN</state>
+    <zipCode>US</zipCode>
+    <country>55372</country>
+  </address>
+</Store>
+<Store>
+  <storeCode>2q0245</storeCode>
+  <manager>
+    <personCode>j9pkff</personCode>
+    <lastName>Shaw</lastName>
+    <firstName>Annie</firstName>
+    <address>
+      <street>886 Gulf Court</street>
+      <city>Alliance</city>
+      <state>OH</state>
+      <zipCode>US</zipCode>
+      <country>44601</country>
+    </address>
+    <emails>
+      <email>ashaw@hotmail.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>7672 Wayne Dr.</street>
+    <city>Alexandria</city>
+    <state>VA</state>
+    <zipCode>US</zipCode>
+    <country>22304</country>
+  </address>
+</Store>
+<Store>
+  <storeCode>6e6rw9</storeCode>
+  <manager>
+    <personCode>j9pkff</personCode>
+    <lastName>Shaw</lastName>
+    <firstName>Annie</firstName>
+    <address>
+      <street>886 Gulf Court</street>
+      <city>Alliance</city>
+      <state>OH</state>
+      <zipCode>US</zipCode>
+      <country>44601</country>
+    </address>
+    <emails>
+      <email>ashaw@hotmail.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>65 Essex St.</street>
+    <city>Fond Du Lac</city>
+    <state>WI</state>
+    <zipCode>US</zipCode>
+    <country>54935</country>
+  </address>
+</Store>
+<Store>
+  <storeCode>dvgpw3</storeCode>
+  <manager>
+    <personCode>b4gqna</personCode>
+    <lastName>Hood</lastName>
+    <firstName>Kira</firstName>
+    <address>
+      <street>979 Hillcrest Court</street>
+      <city>Crofton</city>
+      <state>MD</state>
+      <zipCode>US</zipCode>
+      <country>21114</country>
+    </address>
+    <emails>
+      <email>khood@swift.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>58 Oval Dr.</street>
+    <city>Lady Lake</city>
+    <state>FL</state>
+    <zipCode>US</zipCode>
+    <country>32159</country>
+  </address>
+</Store>
+<Store>
+  <storeCode>iqmod0</storeCode>
+  <manager>
+    <personCode>6a2wff</personCode>
+    <lastName>Calderon</lastName>
+    <firstName>Arielle</firstName>
+    <address>
+      <street>486 Union Circle</street>
+      <city>Zanesville</city>
+      <state>OH</state>
+      <zipCode>US</zipCode>
+      <country>43701</country>
+    </address>
+    <emails>
+      <email>acalderon@marks.com</email>
+    </emails>
+  </manager>
+  <address>
+    <street>8968 Seacoast Lane</street>
+    <city>Grove City</city>
+    <state>OH</state>
+    <zipCode>US</zipCode>
+    <country>43123</country>
+  </address>
+</Store>
+</stores>

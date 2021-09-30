@@ -1,0 +1,185 @@
++-----------------------------------------------------+
+| Salesperson Summary Report                          |
++-----------------------------------------------------+
+Salesperson                    # Sales    Grand Total
+Calderon, Arielle              2          $    238.16
+Hood, Kira                     3          $    373.75
+Shaw, Annie                    2          $    477.61
++-----------------------------------------------------+
+                               7          $   1089.52
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                        # Sales    Grand Total
+ox3ty6     Calderon, Arielle              1          $    189.25
+6e6rw9     Shaw, Annie                    1          $     66.21
+iqmod0     Calderon, Arielle              2          $    557.24
+2q0245     Shaw, Annie                    0          $      0.00
+dvgpw3     Hood, Kira                     3          $    276.82
++----------------------------------------------------------------+
+                                          7          $   1089.52
+
+Sale  #jd0109
+Store #ox3ty6
+Customer:
+Craig, Molly ([mcraig@gusikowski.com, mcraig@gmail.com, mcraig@yahoo.com])
+ 50 Pinnacle Dr.
+ Eastpointe MI US 48021
+
+Sales Person:
+Calderon, Arielle ([acalderon@marks.com, acalderon@mgg.com])
+ 486 Union Circle
+ Zanesville OH US 43701
+
+Item                                                           	   Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+Madden 22
+ (New Item #nsk0gl @69.99/ea)                                $     69.99
+NBA 2K
+ (New Item #2s2ksy @69.99/ea)                                $     69.99
+PlayStation Plus
+ (Subscription #mz66t7 366 days@$60/yr)                      $     60.16
+                                                             -=-=-=-=-=-
+                                                    Subtotal $    200.14
+                                      	                 Tax $     10.14
+                                          Discount (10.00%)  $     21.03
+                                                 Grand Total $    189.25
+
+Sale  #pr290c
+Store #6e6rw9
+Customer:
+Potter, McKenna ([mpotter@lesch.net])
+ 3 Honor Ave.
+ Bronx NY US 10451
+
+Sales Person:
+Shaw, Annie ([ashaw@hotmail.com, ashaw@mgg.com, ashaw@outlook.com])
+ 886 Gulf Court
+ Alliance OH US 44601
+
+Item                                                           	   Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+VC
+ (Gift Card #bsuv2o)                                         $     24.99
+Mario Kart Wii
+ (Used Item #n5oc69 @40.00/ea)                               $     40.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $     64.99
+                                      	                 Tax $      4.71
+                                          Discount (5.00%)   $      3.49
+                                                 Grand Total $     66.21
+
+Sale  #broza1
+Store #iqmod0
+Customer:
+Brandt, Thomas ([tbrandt@pfeffer.info, tbrandt@gmail.com])
+ 854 Rockland Street
+ Grovetown GA US 30813
+
+Sales Person:
+Shaw, Annie ([ashaw@hotmail.com, ashaw@mgg.com, ashaw@outlook.com])
+ 886 Gulf Court
+ Alliance OH US 44601
+
+ Item                                                              Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+Console Repair
+ (Service #nnv9eo by Hood, Kira 2.0hrs@$200.00/hr)           $    400.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $    400.00
+                                      	                 Tax $     11.40
+                                                 Grand Total $    411.40
+                                                 
+Sale  #h1k0cm
+Store #dvgpw3
+Customer:
+Sherman, Deangelo ([dsherman@stehr.info])
+ 212 Fifth Dr. 
+ Westland MI 481485 US
+
+Sales Person:
+Calderon, Arielle ([acalderon@marks.com, acalderon@mgg.com])
+ 486 Union Circle
+ Zanesville OH 43701 US
+
+ Item                                                              Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+Zelda: Twilight Princess
+ (Used Item #eomqix  1@ 24.00/ea)                            $     24.00
+Zelda: Twilight Princess
+ (Used Item #eomqix  1@ 24.00/ea)                            $     24.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $     48.00
+                                                         Tax $      3.48
+                                            Discount (5.00 %)$      2.57
+                                                 Grand Total $     48.91
+                                                 
+
+Sale  #d1c3yx
+Store #dvgpw3
+Customer:
+Hood, Kira ([khood@swift.com, khood@mgg.com])
+  979 Hillcrest Court
+  Crofton MD 21114 US
+
+Sales Person:
+Hood, Kira ([khood@swift.com, khood@mgg.com])
+  979 Hillcrest Court
+  Crofton MD 21114 US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+Nintendo Store
+ (Gift Card #nzageg)                                         $    100.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $    100.00
+                                                         Tax $      7.25
+                                            Discount (15.00%)$     16.09
+                                                 Grand Total $     91.16 
+                                                 
+
+Sale  #n1tr0t
+Store #dvgpw3
+Customer:
+Hood, Kira ([khood@swift.com, khood@mgg.com])
+  979 Hillcrest Court
+  Crofton MD 21114 US
+
+Sales Person:
+Hood, Kira ([khood@swift.com, khood@mgg.com])
+  979 Hillcrest Court
+  Crofton MD 21114 US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+Nintendo Store
+ (Gift Card #nzageg)                                         $    150.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $    150.00
+                                                         Tax $     10.88
+                                            Discount (15.00%)$     24.13
+                                                 Grand Total $    136.75 
+                                                 
+
+Sale  #w0dell
+Store #iqmod0
+Customer:
+Hood, Kira ([khood@swift.com, khood@mgg.com])
+  979 Hillcrest Court
+  Crofton MD 21114 US
+
+Sales Person:
+Hood, Kira ([khood@swift.com, khood@mgg.com])
+  979 Hillcrest Court
+  Crofton MD 21114 US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+Call of Duty
+ (New Item #phzsl4  2@ 79.99/ea)                             $    159.98
+                                                             -=-=-=-=-=-
+                                                    Subtotal $    159.98
+                                                         Tax $     11.60
+                                            Discount (15.00%)$     25.74
+                                                 Grand Total $    145.84                                                                                                                                              

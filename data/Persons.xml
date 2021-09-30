@@ -1,0 +1,182 @@
+<persons>
+<Customer>
+  <personCode>w71uj3</personCode>
+  <lastName>Mccarthy</lastName>
+  <firstName>Heidi</firstName>
+  <address>
+    <street>89 W. Achorage Rd.</street>
+    <city>District Heights</city>
+    <state>MD</state>
+    <zipCode>US</zipCode>
+    <country>20747</country>
+  </address>
+  <emails>
+    <email>hmccarthy@kohler.com</email>
+  </emails>
+</Customer>
+<PlatinumCustomer>
+  <personCode>n9aefa</personCode>
+  <lastName>Craig</lastName>
+  <firstName>Molly</firstName>
+  <address>
+    <street>50 Pinnacle Dr.</street>
+    <city>Eastpointe</city>
+    <state>MI</state>
+    <zipCode>US</zipCode>
+    <country>48021</country>
+  </address>
+  <emails>
+    <email>mcraig@gusikowski.com</email>
+  </emails>
+</PlatinumCustomer>
+<GoldCustomer>
+  <personCode>oal6ia</personCode>
+  <lastName>Sherman</lastName>
+  <firstName>Deangelo</firstName>
+  <address>
+    <street>212 Fifth Dr.</street>
+    <city>Westland</city>
+    <state>MI</state>
+    <zipCode>US</zipCode>
+    <country>48185</country>
+  </address>
+  <emails>
+    <email>dsherman@stehr.info</email>
+  </emails>
+</GoldCustomer>
+<Employee>
+  <personCode>6a2wff</personCode>
+  <lastName>Calderon</lastName>
+  <firstName>Arielle</firstName>
+  <address>
+    <street>486 Union Circle</street>
+    <city>Zanesville</city>
+    <state>OH</state>
+    <zipCode>US</zipCode>
+    <country>43701</country>
+  </address>
+  <emails>
+    <email>acalderon@marks.com</email>
+  </emails>
+</Employee>
+<PlatinumCustomer>
+  <personCode>1w8elb</personCode>
+  <lastName>Rivera</lastName>
+  <firstName>Joselyn</firstName>
+  <address>
+    <street>312 Estate Avenue</street>
+    <city>Uniondale</city>
+    <state>NY</state>
+    <zipCode>US</zipCode>
+    <country>11553</country>
+  </address>
+  <emails>
+    <email>jrivera@kling.com</email>
+  </emails>
+</PlatinumCustomer>
+<Employee>
+  <personCode>j9pkff</personCode>
+  <lastName>Shaw</lastName>
+  <firstName>Annie</firstName>
+  <address>
+    <street>886 Gulf Court</street>
+    <city>Alliance</city>
+    <state>OH</state>
+    <zipCode>US</zipCode>
+    <country>44601</country>
+  </address>
+  <emails>
+    <email>ashaw@hotmail.com</email>
+  </emails>
+</Employee>
+<Customer>
+  <personCode>cezykf</personCode>
+  <lastName>Brandt</lastName>
+  <firstName>Thomas</firstName>
+  <address>
+    <street>854 Rockland Street</street>
+    <city>Grovetown</city>
+    <state>GA</state>
+    <zipCode>US</zipCode>
+    <country>30813</country>
+  </address>
+  <emails>
+    <email>tbrandt@pfeffer.info</email>
+  </emails>
+</Customer>
+<GoldCustomer>
+  <personCode>0ejsfs</personCode>
+  <lastName>Castro</lastName>
+  <firstName>Mila</firstName>
+  <address>
+    <street>7162 East Sunnyslope Street</street>
+    <city>Shrewsbury</city>
+    <state>MA</state>
+    <zipCode>US</zipCode>
+    <country>01545</country>
+  </address>
+  <emails>
+    <email>mcastro@yahoo.com</email>
+  </emails>
+</GoldCustomer>
+<Employee>
+  <personCode>b4gqna</personCode>
+  <lastName>Hood</lastName>
+  <firstName>Kira</firstName>
+  <address>
+    <street>979 Hillcrest Court</street>
+    <city>Crofton</city>
+    <state>MD</state>
+    <zipCode>US</zipCode>
+    <country>21114</country>
+  </address>
+  <emails>
+    <email>khood@swift.com</email>
+  </emails>
+</Employee>
+<GoldCustomer>
+  <personCode>btyob0</personCode>
+  <lastName>Potter</lastName>
+  <firstName>Mckenna</firstName>
+  <address>
+    <street>3 Honor Ave.</street>
+    <city>Bronx</city>
+    <state>NY</state>
+    <zipCode>US</zipCode>
+    <country>10451</country>
+  </address>
+  <emails>
+    <email>mpotter@lesch.net</email>
+  </emails>
+</GoldCustomer>
+<PlatinumCustomer>
+  <personCode>9oalf0</personCode>
+  <lastName>Barton</lastName>
+  <firstName>Taylor</firstName>
+  <address>
+    <street>63 Sulphur Springs St.</street>
+    <city>Anaheim</city>
+    <state>CA</state>
+    <zipCode>US</zipCode>
+    <country>92806</country>
+  </address>
+  <emails>
+    <email>tbarton@hotmail.com</email>
+  </emails>
+</PlatinumCustomer>
+<Customer>
+  <personCode>hb7mdu</personCode>
+  <lastName>May</lastName>
+  <firstName>Justin</firstName>
+  <address>
+    <street>9663 Newport Ave.</street>
+    <city>North Andover</city>
+    <state>MA</state>
+    <zipCode>US</zipCode>
+    <country>01845</country>
+  </address>
+  <emails>
+    <email>jmay@lang.com</email>
+  </emails>
+</Customer>
+</persons>

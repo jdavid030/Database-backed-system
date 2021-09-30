@@ -1,0 +1,88 @@
+<items>
+<NewProduct>
+  <code>nsk0gl</code>
+  <name>Madden 22</name>
+  <basePrice>69.99</basePrice>
+</NewProduct>
+<NewProduct>
+  <code>2s2ksy</code>
+  <name>NBA 2K 22</name>
+  <basePrice>69.99</basePrice>
+</NewProduct>
+<NewProduct>
+  <code>phzsl4</code>
+  <name>Call of Duty</name>
+  <basePrice>79.99</basePrice>
+</NewProduct>
+<NewProduct>
+  <code>6oscmm</code>
+  <name>NCAA Football 22</name>
+  <basePrice>69.99</basePrice>
+</NewProduct>
+<GiftCard>
+  <code>bsuv2o</code>
+  <name>VC</name>
+</GiftCard>
+<GiftCard>
+  <code>z11zoe</code>
+  <name>Madden Points</name>
+</GiftCard>
+<GiftCard>
+  <code>7nop1j</code>
+  <name>Android Store</name>
+</GiftCard>
+<GiftCard>
+  <code>nzageg</code>
+  <name>Nintendo Store</name>
+</GiftCard>
+<UsedProduct>
+  <code>eomqix</code>
+  <name>Zelda: Twilight Princess</name>
+  <basePrice>30.00</basePrice>
+</UsedProduct>
+<UsedProduct>
+  <code>n5oc69</code>
+  <name>Mario Kart Wii</name>
+  <basePrice>50.00</basePrice>
+</UsedProduct>
+<UsedProduct>
+  <code>yo7103</code>
+  <name>Lord of the Rings Conquest</name>
+  <basePrice>25.00</basePrice>
+</UsedProduct>
+<UsedProduct>
+  <code>m3ttyb</code>
+  <name>Wii Sports</name>
+  <basePrice>11.00</basePrice>
+</UsedProduct>
+<Service>
+  <code>nnv9eo</code>
+  <name>Console Repair</name>
+  <hourlyRate>200.00</hourlyRate>
+</Service>
+<Service>
+  <code>1699mz</code>
+  <name>Xbox Rental</name>
+  <hourlyRate>75.00</hourlyRate>
+</Service>
+<Service>
+  <code>4d7wdv</code>
+  <name>PlayStation Rental</name>
+  <hourlyRate>75.00</hourlyRate>
+</Service>
+<Subscription>
+  <code>sbbhx0</code>
+  <name>Xbox Gold</name>
+  <annualFee>60.00</annualFee>
+</Subscription>
+<Subscription>
+  <code>xlqhmp</code>
+  <name>Netflix</name>
+  <annualFee>15.00</annualFee>
+</Subscription>
+<Subscription>
+  <code>mz66t7</code>
+  <name>PlayStation Plus</name>
+  <annualFee>60.00</annualFee>
+</Subscription>
+</items>
